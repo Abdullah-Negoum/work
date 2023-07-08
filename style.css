@@ -1,0 +1,83 @@
+/*.f{color: rgba(200, 255, 0, 0.87);
+    font-size: 40px;
+margin: 30px;
+
+}
+div{background-color: rgb(124, 16, 16);
+
+}
+div{
+    background-color: rgb(0, 255, 0);
+    background-color: #ff0000;
+background-image: url(Screenshot_٢٠٢٣٠٥٢٦-٢٢٥٦١٣_Facebook.jpg);width:1000px; height:500px;
+border-color:  #ff0000 green yellow blue;
+border-width: 10px;
+border-style: solid;
+border-radius: 100px;
+outline: 10px solid black;
+background-repeat:no-repeat;
+background-attachment: scroll;
+background-attachment:fixed;
+background-position: 100px 200px;
+background-size: cover;
+background-size: contain;
+margin-top: auto;
+margin: 10px;
+} */
+
+div{
+background-color: rgb(223, 200, 200);
+padding: 10px;
+margin: 10px;
+
+
+}
+
+span{
+    background-color: blue;
+    padding: 10px;
+    margin: 1 0px;
+display:inline-block;
+ 
+}
+ .one{
+    background-color: rgb(152, 147, 156);
+ border-bottom: 2px solid rgb(238, 23, 23);
+padding: 15px;
+margin: 10px;
+color: red;
+
+}
+
+.two{
+    background-color: rgb(152, 147, 156);
+ border-bottom: 2px solid red;
+padding: 15px;
+margin: 10px;
+color: red;
+}
+.three{
+    background-color: rgb(152, 147, 156);
+ border-bottom: 2px solid rgb(25, 0, 255);
+padding: 15px;
+margin: 10px ;
+color: blue;
+}
+.four{
+    background-color: rgb(152, 147, 156);
+ border-bottom: 2px solid rgb(43, 255, 0);
+padding: 15px;
+margin: 10px;
+color: green;
+}
+
+
+.i{
+
+    padding:10px;
+display: inline-block;
+
+width: 400px;
+text-align: center;
+font-weight: bold ;
+}
